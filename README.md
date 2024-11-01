@@ -13,6 +13,7 @@ The **main objective** of this study is to apply NLP techniques to the symptoms 
 
 AOPS data preprocessing steps 
 
+<img src="![image](https://github.com/user-attachments/assets/58a0b049-c864-4733-b238-a3ba71a0d8c7)" alt="Alt Text" width="300" height="200">
 ![image](https://github.com/user-attachments/assets/58a0b049-c864-4733-b238-a3ba71a0d8c7)
 
 The architectural diagram of the overall proposed methodology 

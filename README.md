@@ -1,4 +1,4 @@
-# Disease-Category-prediction Using AI models( ML+Dl+NLP) from symptoms in Afaan Oromo 
+# Disease-Category-prediction Using AI models( ML+DL+NLP) from symptoms in Afaan Oromo 
 Automated disease diagnosis and prediction, powered by AI, play a crucial role in enabling medical professionals to deliver effective care to patients. While such predictive tools have been extensively explored in resource-rich languages like English, this manuscript focuses on predicting disease categories automatically from symptoms documented in the Afaan Oromo language, employing various classification algorithms. This study encompasses machine learning techniques such as support vector machines, random forests, logistic regression, and Naïve Bayes, as well as deep learning approaches including LSTM, GRU, and Bi-LSTM. Due to the unavailability of a standard corpus......
 
 The **main objective** of this study is to apply NLP techniques to the symptoms given by the user and then utilize ML and DL models to predict disease class labels. Finally, the prediction accuracy of the models was evaluated to determine which model provided the best performance.

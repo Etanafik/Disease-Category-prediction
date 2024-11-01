@@ -9,20 +9,28 @@ The **main objective** of this study is to apply NLP techniques to the symptoms 
 	We have conducted experiments with ML such as SVM (support vector machine), random forest, logistic regression, and Naïve Bayes and deep learning algorithms' such as LSTM (long short term memory), GRU (gated recurrent unit), and Bi-LSTM (bi-directional long short term memory).
 	We compared the deep learning model’s performance with machine learning models and found that the DL model outperformed.
 	From all the trained models, LSTM plus trained word2vec shows the best performance of all the other models by giving 95.7% accuracy and 96.0% F1 score.
-![image](https://github.com/user-attachments/assets/0bfd15ea-802a-4821-ad6b-ebc4c0e2cb5a)
+
+<img src="https://github.com/user-attachments/assets/0bfd15ea-802a-4821-ad6b-ebc4c0e2cb5a" alt="Alt Text" width="700" height="100">
 
 AOPS data preprocessing steps 
 
-<img src="![image](https://github.com/user-attachments/assets/58a0b049-c864-4733-b238-a3ba71a0d8c7)" alt="Alt Text" width="300" height="200">
-![image](https://github.com/user-attachments/assets/58a0b049-c864-4733-b238-a3ba71a0d8c7)
+<img src="https://github.com/user-attachments/assets/58a0b049-c864-4733-b238-a3ba71a0d8c7" alt="Alt Text" width="600" height="400">
 
 The architectural diagram of the overall proposed methodology 
-![image](https://github.com/user-attachments/assets/180c1f47-5a05-4dbc-8fce-78f1441d317a)
+<img src="https://github.com/user-attachments/assets/180c1f47-5a05-4dbc-8fce-78f1441d317a" alt="Alt Text" width="700" height="200">
 
 Result comparison of the LSTM model with other DL and ML algorithms on all AOPS1, AOPS2, and AOPS3 
-![image](https://github.com/user-attachments/assets/5eca5c29-eb70-4638-9c64-2c1af0649d33)
+<img src="https://github.com/user-attachments/assets/5eca5c29-eb70-4638-9c64-2c1af0649d33" alt="Alt Text" width="500" height="300">
 
 Confusion Matrix for LSTM model using Word2vec
-![image](https://github.com/user-attachments/assets/15b07f3f-c86f-49e5-b5c5-e7ac7f6c6f5c)
+
+<img src="https://github.com/user-attachments/assets/15b07f3f-c86f-49e5-b5c5-e7ac7f6c6f5c" alt="Alt Text" width="400" height="300">
 
 Training and testing accuracy of LSTM model with Word2vec
+Read Full paper:
+For further information reach # etanaf@wollegauniversity.edu.et / 142334001@smail.iitpkd.ac.in
+
+Contributor:
+1. Etana Fikadu (PhD candidate)
+2. Mrinal Das (PhD)
+3. Teklu Urgessa (PhD)

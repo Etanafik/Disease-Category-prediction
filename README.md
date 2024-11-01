@@ -27,7 +27,8 @@ Confusion Matrix for LSTM model using Word2vec
 <img src="https://github.com/user-attachments/assets/15b07f3f-c86f-49e5-b5c5-e7ac7f6c6f5c" alt="Alt Text" width="400" height="300">
 
 Training and testing accuracy of LSTM model with Word2vec
-**Read Full paper**: https://www.nature.com/articles/s41598-024-62278-7
+
+*_*Read Full paper_**: https://www.nature.com/articles/s41598-024-62278-7
 
 For further information reach # etanaf@wollegauniversity.edu.et / 142334001@smail.iitpkd.ac.in
 
